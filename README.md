@@ -53,8 +53,8 @@ This project dives deep into a retail sales dataset to uncover trends, customer 
     
 ## 📂 Repo Structure
 
-├── Retail-Data-Analysis.ipynb   # Main Jupyter Notebook
-├── retail_sales_dataset.csv     # Retail sales data
+├── Retail-Data-Analysis.ipynb   
+├── retail_sales_dataset.csv     
 ├── README.md
 └── ...
 
