@@ -56,7 +56,7 @@ This project dives deep into a retail sales dataset to uncover trends, customer 
 ├── Retail-Data-Analysis.ipynb   
 ├── retail_sales_dataset.csv     
 ├── README.md
-└── ...
+...
 
 **📈 Results**
 - Clear, actionable insights for retail strategy
